@@ -1,0 +1,14 @@
+a = 11
+b = 66
+sum = a+b
+diff = a-b
+prod = a*b
+quot = a/b
+rem = a%b
+exp = a**2
+print("SUM = ",sum)
+print("DIFF = ",diff)
+print("PROD = ",prod)
+print("QUOT = ",quot)
+print("REM = ",rem)
+print("exp (square of a ) = ",exp)
